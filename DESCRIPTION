@@ -21,7 +21,6 @@ Imports:
     dplyr,
     graphics,
     methods,
-    rgeos,
     sf,
     sp
 Suggests:
